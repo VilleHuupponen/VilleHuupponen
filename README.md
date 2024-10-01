@@ -17,9 +17,4 @@ I'm an aspiring developer currently expanding my skills in software development.
 ## 📂 Featured Projects
 Here are some of my recent projects:
 
-### [Tic-Tac-Toe Game](https://github.com/VilleHuupponen/tictactoe-showcase)
-A classic two-player Tic-Tac-Toe game. Built with .NET MAUI and C#.  
-**Highlights:**
-- Local two-player mode and a basic AI opponent.
-- Responsive user interface optimized for desktop.
-- Scoreboard and JSON-based game data storage.
+
