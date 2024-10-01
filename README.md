@@ -11,8 +11,8 @@ I'm an aspiring developer currently expanding my skills in software development.
 ## 🛠️ Technical Skills
 - **Programming Languages:** C#, Java, JavaScript
 - **Frameworks & Libraries:** .NET MAUI, React (currently learning)
-- **Tools & Platforms:** Git, Visual Studio, VS Code
-- **Databases:** MySQL, JSON storage
+- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ
+- **Databases:** MySQL, MariaDB, JSON storage
 
 ## 📂 Featured Projects
 Here are some of my recent projects:
