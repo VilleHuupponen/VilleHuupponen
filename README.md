@@ -24,7 +24,7 @@ A classic two-player Tic-Tac-Toe game. Built with .NET MAUI and C#.
 - Developed problem-solving skills by implementing game logic and managing different game states.
 - Practiced the use of functions to create reusable and modular code.
 
-### [CottagERP]([https://github.com/AnssiKi/ohj1v0.1])
+### [CottagERP](https://github.com/AnssiKi/ohj1v0.1)
 A cottage reservation system with various features for managing rentals and related services. Built with .NET MAUI and C#.
 **What I Learned:**
 - Gained experience in using the waterfall model for software development, allowing me to understand the structured, phase-by-phase project approach.
