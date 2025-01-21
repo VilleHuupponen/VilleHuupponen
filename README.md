@@ -4,13 +4,13 @@ I'm an aspiring developer currently expanding my skills in software development.
 
 ## 💼 About Me
 - 🎓 **Student** in Information Technology at Savonia University of Applied Sciences.
-- 🌱 Currently learning **React** to expand my front-end development skills.
-- 🛠️ Experienced with **C#**, **.NET MAUI**, **Java**, **JavaScript**, **HTML**, and **CSS**.
-- 🔭 Currently focused on finishing my studies and building portfolio projects.
+- 🌱 Currently learning ASP.NET to broaden my understanding of a framework used for building web applications.
+- 🛠️ Experienced with **C#**, **.NET MAUI**, **React**, **JavaScript**, **HTML**, **CSS** and **Java**.
+- 🔭 Currently focused on finishing my studies.
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** C#, Java, JavaScript
-- **Frameworks & Libraries:** .NET MAUI, React (currently learning)
+- **Frameworks & Libraries:** .NET MAUI, React, ASP.NET (currently learning)
 - **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ
 - **Databases:** MySQL, MariaDB, JSON storage
 
