@@ -5,13 +5,13 @@ I'm an aspiring developer currently expanding my skills in software development.
 ## 💼 About Me
 - 🎓 **Student** in Information Technology at Savonia University of Applied Sciences.
 - 🌱 Currently learning PHP to deepen my understanding of web development and backend integration
-- 🛠️ Experienced with **React**, **Node.js**, **JavaScript**, **HTML**, **CSS**, **Java**, **C#**, **.NET MAUI**, and **ASP.NET**.
-- 💼 Currently doing an internship, where I work with Next.js and Node.js in a modern software project
+- 🛠️ Experienced with **React**, **Node.js**, **Typescript**, **JavaScript**, **HTML**, **CSS**, **Java**, **C#**, **.NET MAUI**, and **ASP.NET**.
+- 💼 Currently doing an internship, where I work with Next.js with TypeScript and Node.js in a modern software project
 - 🎯 Focused on completing my studies while gaining practical experience in the field
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** C#, Java, JavaScript, Node.js, PHP (learning)
-- **Frameworks & Libraries:** React, .NET MAUI, ASP.NET, Next.js
+- **Programming Languages:** JavaScript, Typescript, C#, Java, PHP (learning)
+- **Frameworks & Libraries:** React, Node.js, .NET MAUI, ASP.NET, Next.js
 - **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ
 - **Databases:** MySQL, MariaDB, SQLite, JSON storage
 
