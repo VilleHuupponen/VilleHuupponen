@@ -13,7 +13,7 @@ I'm an aspiring developer currently expanding my skills in software development.
 - **Programming Languages:** JavaScript, Typescript, C#, Python, Java, PHP (learning)
 - **Frameworks & Libraries:** React, Next.js, Node.js, .NET MAUI, ASP.NET 
 - **Tools & Platforms:** Git, Azure DevOps, Visual Studio, VS Code, IntelliJ
-- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite, JSON storage
+- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite, IndexedDbJobStore, JSON storage
 
 ## 📂 Featured Projects
 Here are some of my recent projects:
